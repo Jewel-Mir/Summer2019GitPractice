@@ -9,3 +9,5 @@ GA
 NY
 MA
 KS
+AZ
+NJ
